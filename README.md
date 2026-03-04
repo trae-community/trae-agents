@@ -136,4 +136,3 @@ The agent configurations in this repository are provided for community exchange 
 
 - TRAE Official Website: https://www.trae.ai/
 - TRAE Documentation: https://docs.trae.ai/
-- TRAE MCPs Repository: ../trae-mcp
